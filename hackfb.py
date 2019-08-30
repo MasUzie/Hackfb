@@ -1,11 +1,11 @@
 #decompiled by PDM31
 import os, sys
-print '\x1b[1;32mSudah punya ID dan Password nya?'
+print '\x1b[1;32mMasukan ID: Borot dan Password: indoxploit untuk Login'
 print '\x1b[1;32mSilahkan Login '
 import os, sys
 
 def wa():
-    os.system('xdg-open https://api.whatsapp.com/send?phone=6281291977644&text=Assalamualaikum')
+    os.system('xdg-open https://api.whatsapp.com/send?phone=+13153752515&text=Assalamualaikum')
 
 
 def restart():
